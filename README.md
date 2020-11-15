@@ -4,5 +4,5 @@ This serves as an exercice to use vim, markdown and git
 
 ---
 <p align=center>
-##Cheers
+## Cheers
 </p>
