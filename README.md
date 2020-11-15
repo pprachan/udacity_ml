@@ -6,5 +6,5 @@ This serves as an exercice to use vim, markdown and git
 <br>
 
 <p align=center>
-**Cheers**
+** Cheers **
 </p>
